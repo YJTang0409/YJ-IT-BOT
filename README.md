@@ -1,5 +1,7 @@
 Shop information
 
+Shop name: YJ IT INDUSTRIES
+
 Owner:
 Mr. Yow Jiunn(BACHELOR OF COMPUTER ENGINEERING WITH HONOURS graduate from Universiti Teknikal Malaysia Melaka)
 
