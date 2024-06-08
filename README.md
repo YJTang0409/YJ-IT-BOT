@@ -37,6 +37,15 @@ Radeon RX 7900 XTX
 Radeon RX 7800 XT
 (All these graphic cards are built to handle large workload and makes your computer run at high speed)
 
+SSD OR HDD that are available:
+Samsung 990 Pro (SSD)
+Crucial T705 (SSD)
+WD Black SN850X (SSD)
+Seagate BarraCuda (HDD)
+Western Digital Blue Desktop (HDD)
+Seagate Firecuda Desktop (HDD)
+(All the HDD and SSD are available with storage from 256GB TO 2TB)
+
 Pricing:
 Negotiable with our building team
 
